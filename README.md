@@ -1,3 +1,5 @@
+[![Test CI](https://github.com/jyoonPro/nest-hello-world/actions/workflows/test.yml/badge.svg)](https://github.com/jyoonPro/nest-hello-world/actions/workflows/test.yml)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
